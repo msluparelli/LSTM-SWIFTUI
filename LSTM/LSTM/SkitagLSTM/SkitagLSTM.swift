@@ -7,7 +7,6 @@
 
 import GameplayKit
 
-
 class lstmDATApreprocess {
     struct RandomNumberGeneratorWithSeed: RandomNumberGenerator {
         init(seed: Int) {
